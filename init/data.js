@@ -4,8 +4,8 @@ const sampleListings = [
     description:
       "Escape to this charming beachfront cottage for a relaxing getaway. Enjoy stunning ocean views and easy access to the beach.",
     image: {
-      filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=60",
+      filename: "cozy-beachfront.jpg",
+      url: "https://i.pinimg.com/1200x/32/4d/76/324d76595fb2599d6152a737bafb07bb.jpg",
     },
     price: 1500,
     location: "Malibu",
@@ -17,7 +17,7 @@ const sampleListings = [
       "Stay in the heart of the city in this stylish loft apartment. Perfect for urban explorers!",
     image: {
       filename: "listingimage",
-      url: "https://images.unsplash.com/photo-1494526585095-c41746248156?w=800&auto=format&fit=crop&q=60",
+      url: "https://assets.gqindia.com/photos/662613aa9bff49607e5fb8bd/1:1/w_775%2Cc_limit/World-Earth-Day_001.jpg",
     },
     price: 1200,
     location: "New York City",
